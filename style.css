@@ -96,7 +96,8 @@ font-family: 'Comic Neue', sans-serif;
 
 
 
-#sapaanindo1, #sapaanindo2, #lanjutanindo1, #lanjutanindo2, #sapaanjepang1, #sapaanjepang2, #lanjutanjepang1, #lanjutanjepang2, #klip, #harapan, #klikgambarkue, #gift, #PILIH, #Saran, #IG, #TWITTER_X, .terimakashi, #umur, #latarBelakang {
+
+#sapaanindo1, #sapaanindo2, #lanjutanindo1, #lanjutanindo2, #sapaanjepang1, #sapaanjepang2, #lanjutanjepang1, #lanjutanjepang2, #klip, #harapan, #klikgambarkue, #gift, #PILIH, #Saran, #IG, #TWITTER_X, .terimakashi, #umur, #latarBelakang, #JikoNay, #Ind, #Jpn, #JikoNayJpn, #PipiPoni {
   word-wrap: break-word;
 font-family: 'Comic Neue', sans-serif;
   color: #2b2b2b;
@@ -104,6 +105,17 @@ font-family: 'Comic Neue', sans-serif;
   font-size: 20;
   
 }
+
+#PipiPoni{
+	color:red;
+}
+
+
+
+#umur{
+color:red;	
+}
+
 
 #DDAY{
   word-wrap: break-word;
