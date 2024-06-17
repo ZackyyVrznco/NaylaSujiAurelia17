@@ -20,7 +20,7 @@ function CobaLagi() {
 setTimeout(CobaLagi, 300);
 
 
-var tekssapaanindo1 = "Yeayyy sekarang kamu umurnya udah 17 tahun nih sekaligus ulang tahun pertama kamu di JKT48 juga, harapan aku buat kamu ada banyak banget, semoga semua harapan dan doa doa kamu segera terwujud, semoga kamu menjadi orang yang jauh lebih baik lagi dan dewasa ke depannya, semoga kamu semakin pintar berbicara bahasa Indonesianya, semoga kamu bisa menjadi idol yang hebat, semoga semakin banyak orang yang mendukungmu dan menjadikan kamu sebagai oshi,  ";
+var tekssapaanindo1 = "Yeayyy sekarang kamu umurnya udah 17 tahun nih sekaligus ulang tahun pertama kamu di JKT48 juga, hari yang kamu tunggu akhir datang juga, harapan aku buat kamu ada banyak banget, semoga semua harapan dan doa doa kamu segera terwujud, semoga kamu menjadi orang yang jauh lebih baik lagi dan dewasa ke depannya, semoga kamu semakin pintar berbicara bahasa Indonesianya, semoga kamu bisa menjadi idol yang hebat, semoga semakin banyak orang yang mendukungmu dan menjadikan kamu sebagai oshi, semoga kamu selalu diberikan kesehatan agar bisa terus menampilkan yang terbaik di setiap shownya, semoga kamu selalu dikelilingi oleh orang orang baik di sekitar kamu, dan semoga setiap hari dalam hidupmu selalu dipenuhi dengan banyak kebahagiaan. Ngomong ngomong kamu gimana kabarnya? semoga kamu baik baik aja ya, gimana perasaannya sekarang umurnya udah 17 tahun? kamu seneng ga? pastinya senang lah ya. Banyak orang bilang kalau umur 17 tahun itu umur yang spesial, selain kamu yang semakin dewasa, di umur 17 tahun ini banyak hal baru yang bisa kamu coba dan kamu pelajari, banyak juga tanggung jawab juga yang akan datang ke kamu, tapi aku yakin kamu pasti bisa jalanin semua itu, aku juga bakal selalu ada di setiap perjalanan kamu untuk terus berkembang di JKT48, jadi jangan pernah merasa kalau kamu sendirian, karena banyak banget orang yang mendukung kamu disini, fans fans kamu dan teman teman kamu di JKT48. Aku di sini sekaligus mau ngucapin terima kashi buat kerja kerasnya selama ini di JKT48, kamu keren, aku selalu bangga melihat semua perkembangan kamu selama ini, walaupun aku belum pernah melihatnya secara langsung di teater, apalagi perkembangan berbicara Indonesianya juga, tau ga sekarang setiap kamu live Showroom atau IDN, mendengar cara berbicara kamu udah semakin lancar banget, bahkan kamu sekarang udah bisa bercanda sama ngeledek ya wkwk, semuanya udah jauh berkembang sekarang. Terima kashi juga karena selalu ceria di setiap live Showroom dan IDNnya, walaupun terkadang kamu terlihat kebingungan saat sedang membaca komentar, tapi kamu selalu bertanya jika ada hal yang kurang kamu mengerti, dan di live berikutnya selalu ada saja hal yang berkembang darimu-";
 var i = 0;
 
 function efekMengetikSapaanIndo1() {
@@ -76,7 +76,7 @@ function efekMengetikSapaanIndo2() {
 }
 setTimeout(efekMengetikSapaanIndo2, 10);
 
-var tekslanjutanindo2 = "Haiiii Nayla, selamat ulang tahun yang ke - 9000 ijij  ijimm unu n un n u  nun un i nijijmi mim i nubgt fcrdcrc rcrc rcr c rc tvgv y gby gygbyb yu bhybh n n uh u nunu h ij nib u bi buyb uyb uy byb";
+var tekslanjutanindo2 = "Aku juga senang melihat bagaimana kamu selalu berinteraksi dengan fans dengan penuh keceriaan dan ketulusan. Setiap senyuman dan tawa yang kamu bagikan membuat kami merasa dekat denganmu. Kamu memiliki bakat untuk membuat orang merasa dihargai dan disayangi, dan itu adalah salah satu alasan mengapa banyak orang yang mendukungmu. Selain itu, aku ingin mengatakan bahwa perjalananmu di JKT48 baru saja dimulai, dan masih banyak hal hebat yang menantimu di masa depan. Setiap langkah kecil yang kamu ambil, setiap latihan yang kamu jalani, dan setiap penampilan yang kamu berikan adalah bagian dari perjalanan luar biasa ini. Jangan pernah merasa kecil hati atau ragu, karena kami selalu berada di sini untuk mendukungmu. Aku juga berharap kamu selalu menjaga kesehatanmu. Di tengah jadwal yang padat dan aktivitas yang banyak, penting sekali untuk tetap memperhatikan kesehatan fisik dan mentalmu. Jangan ragu untuk beristirahat ketika kamu merasa lelah, dan selalu ingat bahwa kami mendukungmu untuk menjadi yang terbaik tanpa harus mengorbankan kesehatanmu. Harapanku untukmu tidak hanya terbatas selama perjalanan kamu di JKT48, tetapi juga untuk kebahagiaanmu secara keseluruhan. Sekali semoga kamu selalu dikelilingi oleh orang-orang yang peduli dan mendukungmu, baik di dalam maupun di luar JKT48. Semoga setiap harimu dipenuhi dengan kebahagiaan, tawa, dan cinta. Teruslah berani mencoba hal-hal baru dan menjelajahi dunia dengan penuh semangat. Ngomong ngomong sampai ketumu di VC tanggal 22 nanti ya, ada banyak hal yang ingin aku sampaikan karena di VC sebelumnya tidak sempat aku sampaikan.";
 var l = 0;
 
 function efekMengetikLanjutanIndo2() {
@@ -87,6 +87,20 @@ function efekMengetikLanjutanIndo2() {
   }
 }
 setTimeout(efekMengetikLanjutanIndo2, 650);
+
+
+
+var pipi = " *Pipi sama poni keruyukukuknya jangan sampai hilang yaa!!!";
+var poni = 0;
+
+function PoniKeruyukukuk() {
+  if (poni < pipi.length) {
+    document.getElementById("PipiPoni").innerHTML += pipi.charAt(poni);
+    poni++;
+    setTimeout(PoniKeruyukukuk, 50);
+  }
+}
+setTimeout(PoniKeruyukukuk, 22500);
 
 
 
@@ -110,7 +124,7 @@ setTimeout(efekKlipUlangTahun, 1500);
 
 
 
-var tekssapaanjepang1 = "Haiiii Nayla Suji, selamat ulang tahun yang ke -";
+var tekssapaanjepang1 = "おめでとう、Nayla！あなたが17歳になったこと、そしてJKT48での最初の誕生日を迎えたこと、本当に嬉しいです。あなたが待ち望んでいた日がついに来ましたね。私の願いはあなたが夢や祈りを叶えることができるように、そしてこれからもっと素晴らしい人に成長していくことです。インドネシア語も上手に話せるようになって、素敵なアイドルになれますように。もっと多くの人があなたを支持して、あなたを推しメンに選んでくれることを願っています。でのライブが最高のパフォーマンスを続けられるように、常に健康でありますように。そして、いつも良い人たちに囲まれて、毎日が幸せで満ち溢れていますように。さて、あなたの近況はどうですか？元気でいてくれていますか？17歳になった感想はどうですか？きっと嬉しいですよね。17歳は特別な年齢だとよく言われます。成長するだけでなく、新しいことを試したり学んだりする機会がたくさんありますし、新しい責任も増えてきます。でも、あなたならきっと上手く乗り越えられると信じています。JKT48での成長をこれからもずっと応援していますから、一人だと感じることはありませんよ。ここにはあなたを支持する多くのファンやJKT48の友達がいます。JKT48での頑張りに感謝してるよ。君は本当にかっこいいし、成長してきた姿を見ていつも誇りに思ってる。まだ劇場で直接見たことはないけど、ShowroomやIDNでのライブではインドネシア語がどんどん上手になってきてるのが分かるよ。冗談を言ったりからかったりするのも上手になってきてて、すごく成長してるね。ライブでいつも明るくて元気な姿を見せてくれてありがとう。コメントを読む時に戸惑うこともあるけど、分からないことがあれば聞いて、次のライブではまた成長した姿を見せてくれて嬉しいよ-";
 var m = 0;
 
 function efekMengetikSapaanJepang1() {
@@ -122,7 +136,7 @@ function efekMengetikSapaanJepang1() {
 }
 setTimeout(efekMengetikSapaanJepang1, 3050);
 
-var tekslanjutanjepang1 = "Selamat ulang tahun Nayla Suji yang ke - ";
+var tekslanjutanjepang1 = "Nayla, 17歳のお誕生日おめでとうございます ";
 var n = 0;
 var angka = 1;
 var intervalId;
@@ -166,7 +180,7 @@ function efekMengetikSapaanJepang2() {
 }
 setTimeout(efekMengetikSapaanJepang2, 10);
 
-var tekslanjutanjepang2 = "Hai aku orang jepang okei";
+var tekslanjutanjepang2 = "あなたがいつもファンとの交流を楽しそうに、そして心から行っているのを見るのが好きです。あなたが分かち合う笑顔や笑いは、私たちがあなたと近い感じがして、とても嬉しいです。人々を大切にし、愛されていると感じさせる才能があるから、多くの人があなたを応援しています。また、JKT48でのあなたの旅は始まったばかりで、未来にはまだ素晴らしいことがたくさん待っています。あなたが踏み出す小さな一歩、一生懸命に取り組む練習、そして提供するすべてのパフォーマンスは、この素晴らしい旅の一部です。決して落ち込んだり、疑ったりしないでください。私たちはいつもここであなたをサポートしています。また、健康を守ることも忘れないでください。忙しいスケジュールと多くの活動の中で、身体と精神の健康を大切にすることは非常に重要です。疲れた時は休むことを恐れず、最高であることをサポートしていますが、健康を犠牲にする必要はありません。JKT48での旅だけでなく、あなたの幸せ全体に対する私の願いです。JKT48内外で、あなたを気遣い、サポートしてくれる人々に囲まれてほしいです。毎日が幸せと笑顔と愛で満ち溢れますように。新しいことに挑戦し続け、世界を探検する勇気を持ってください。ちなみに22日のVCで会えるのを楽しみにしています。前回のVCでは話せなかったことがたくさんあるからです";
 var p = 0;
 
 function efekMengetikLanjutanJepang2() {
@@ -483,6 +497,67 @@ function HalamanBerikutnya2() {
   }
 }
 setTimeout(HalamanBerikutnya2, 1400);
+
+
+var Jiko = "'Moshi moshi welcome Naylalaland hallo semuanya bakkyun, nama aku Nayla, terima kashi!!!'";
+var JmlJiko = 0;
+
+function JikoNayla() {
+  if (JmlJiko < Jiko.length) {
+    document.getElementById("JikoNay").innerHTML += Jiko.charAt(JmlJiko);
+    JmlJiko++;
+    setTimeout(JikoNayla, 80);
+  }
+}
+setTimeout(JikoNayla, 24000);
+
+
+
+
+
+var JikoJpn = "'Moshi moshi welcome Naylalaland hallo semuanya bakkyun, nama aku Nayla, terima kashi!!!'";
+var JmlJikoJpn = 0;
+
+function JikoNaylaJpn() {
+  if (JmlJikoJpn < JikoJpn.length) {
+    document.getElementById("JikoNayJpn").innerHTML += JikoJpn.charAt(JmlJikoJpn);
+    JmlJikoJpn++;
+    setTimeout(JikoNaylaJpn, 80);
+  }
+}
+setTimeout(JikoNaylaJpn, 12000);
+
+
+
+
+var ulangtahunIndo = "Sekali lagi selamat ulang tahun yang ke 17, Nayla. Panjang banget yaa...";
+var ultahIndo = 0;
+
+function UltahIndonesia() {
+  if (ultahIndo < ulangtahunIndo.length) {
+    document.getElementById("Ind").innerHTML += ulangtahunIndo.charAt(ultahIndo);
+    ultahIndo++;
+    setTimeout(UltahIndonesia, 80);
+  }
+}
+setTimeout(UltahIndonesia, 27000);
+
+
+
+
+
+var ulangtahunJpn = "Nayla、17歳のお誕生日おめでとうございます。長いメッセージですね…";
+var ultahJpn = 0;
+
+function UltahJepang() {
+  if (ultahJpn < ulangtahunJpn.length) {
+    document.getElementById("Jpn").innerHTML += ulangtahunJpn.charAt(ultahJpn);
+    ultahJpn++;
+    setTimeout(UltahJepang, 80);
+  }
+}
+setTimeout(UltahJepang, 14000);
+
 
 
 
