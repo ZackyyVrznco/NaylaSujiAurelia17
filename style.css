@@ -78,7 +78,7 @@
 
 #kurang{
 		  word-wrap: break-word;
-font-family: 'Indie Flower', cursive;
+font-family: 'Comic Neue', sans-serif;
   color: #2b2b2b;
   text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
    font-size: 30;
@@ -88,7 +88,7 @@ font-family: 'Indie Flower', cursive;
 
 #waktu, #keterangan, #BuatGanti {
 	  word-wrap: break-word;
-font-family: 'Indie Flower', cursive;
+font-family: 'Comic Neue', sans-serif;
   color: #2b2b2b;
   text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
    font-size: 16;
@@ -98,7 +98,7 @@ font-family: 'Indie Flower', cursive;
 
 #sapaanindo1, #sapaanindo2, #lanjutanindo1, #lanjutanindo2, #sapaanjepang1, #sapaanjepang2, #lanjutanjepang1, #lanjutanjepang2, #klip, #harapan, #klikgambarkue, #gift, #PILIH, #Saran, #IG, #TWITTER_X, .terimakashi, #umur, #latarBelakang {
   word-wrap: break-word;
-  font-family: 'Indie Flower', cursive;
+font-family: 'Comic Neue', sans-serif;
   color: #2b2b2b;
   text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
   font-size: 20;
@@ -107,7 +107,7 @@ font-family: 'Indie Flower', cursive;
 
 #DDAY{
   word-wrap: break-word;
-font-family: 'Indie Flower', cursive;
+font-family: 'Comic Neue', sans-serif;
   color: #2b2b2b;
   text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
 }
